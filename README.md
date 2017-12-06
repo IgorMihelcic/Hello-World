@@ -1,2 +1,2 @@
 # Hello-World
-just another repository
+Ovo je mala provera
